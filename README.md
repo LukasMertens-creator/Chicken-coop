@@ -1,9 +1,5 @@
-# Beveiliginssysteem-WiFi
-Projectomschrijving.
+#Chicken coop
 
-Ik ga 3 verschillende microcontrolers gebruiken die met wifi kunnen verbinden. Men kan via de app blink het gehele systeem aan zetten.
-Ik ga gebruik maken van de RFID, een servo motor, buzzer, oled, led's, BH1750. 
+Projectomschrijving:
 
-Werking:
-Het is de bedoeling dat de servomotor de gesloten deur voorsteld. Deze kan alleen opengaan via de RFID. Ook zal er een beveiliging zijn tegen vuur, dit word met de temperatuursensor gedaan. Als alles inorde is brand er een groene led, als e temperatuur boven de 25 graden komt gaat de buzzer afgaan en een rode led branden en op het oled/blink een melding geven dat er vuur is ontstaan.
-De esp word gebruikt voor de Oled, Led's, Blynk. De esp D1 mini word gebruikt voor de buzzer en de temperatuursensor die je dan ergens kan ophangen. de arduino nano iot worde gebruikt voor de servomotor en de RFID
+Ik heb een kippenhok gemaakt waarin er een beveiliging zit en een automatische rollen systeem. Als de temperatuur te hoog oploopt zal er een rood lampje branden en de ventillator gaat draaien. als er een datalijn onderbroken word gaat er een alarm af. Als de zon ondergaat zal de rol omlaag gaan en zal de zon terug opkomt gaat de rol naar omhoog.
