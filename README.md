@@ -81,5 +81,8 @@ Vcc	| 5V
 Gnd	| GND
 
 ---
+## Schematic
+![Schematic](https://prnt.sc/rn0r9r)
 
 
+https://prnt.sc/rn0r9r
