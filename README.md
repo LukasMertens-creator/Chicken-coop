@@ -53,14 +53,30 @@ SDA	| GPIO 21
 
 Sensor -- Photoresistor ![Photoresistor](https://5.imimg.com/data5/LR/UR/ZM/SELLER-40584703/ldr-photoresistor-photo-light-sensitive-resistor-light-dependent-resistor-250x250.jpg)
 
-This is an sensor which also works with I2C. This sensor measures the presure and the temperature.
+This sensor Photo resistors, also known as light dependent resistors (LDR), are light sensitive devices most often used to indicate the presence or absence of light, or to measure the light intensity.
+
+Read more http://www.resistorguide.com/photoresistor/
+
 
 Pin | ESP32 
 ------|------
-Vcc	| 3.3V
+Vcc	| GPIO 34
 GND	| GND
-SCL	| GPIO 22
-SDA	| GPIO 21
+
+---
+
+
+Actor -- Step Motor ![Step Motor](https://image.allekabels.nl/image/1072345-0/stappenmotor-12vdc-60ma-hoek-7.5-85-stappen-stappenmotor-12vdc-60ma-hoek-7.5-85-stappen.jpg)
+
+This sensor Photo resistors, also known as light dependent resistors (LDR), are light sensitive devices most often used to indicate the presence or absence of light, or to measure the light intensity.
+
+Read more http://www.resistorguide.com/photoresistor/
+
+
+Pin | ESP32 
+------|------
+Vcc	| GPIO 34
+GND	| GND
 
 ---
 
