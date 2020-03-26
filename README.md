@@ -8,7 +8,7 @@ I have made a chicken coop with a security system of the temperature. There is a
 ### Blynk
 There is also an app connected called Blynk. Blynk is the dashboard of my system, there you can see al the values. You can see when there is an error. the led in the app will go on. If the motor is up you can see it.
 
-##Libraries
+## Libraries
 Title | Include | Link 
 ------|---------|------
 Adafruit_SSD1306 | Adafruit_SSD1306.h | https://github.com/adafruit/Adafruit_SSD1306 
@@ -21,6 +21,21 @@ Wire | Wire.h | https://github.com/esp8266/Arduino/tree/master/libraries/Wire
 SPI | SPI.h | https://github.com/esp8266/Arduino/tree/master/libraries/SPI 
 Stepper | Stepper.h | https://github.com/arduino-libraries/Stepper
 
+## Components
+
+---
+Display | Oled | ![oled](https://user-images.githubusercontent.com/61006702/77226007-e6c0e100-6b74-11ea-9dff-47438e23a81a.jpg)
+
+Because the OLED display uses I2C communication protocol, wiring is very simple. You can use the following table as a reference.
+
+Pin | ESP32 
+------|------
+Vin	| 3.3V
+GND	| GND
+SCL	| GPIO 22
+SDA	| GPIO 21
+
+---
 
 
 
