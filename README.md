@@ -24,9 +24,9 @@ Stepper | Stepper.h | https://github.com/arduino-libraries/Stepper
 ## Components
 
 ---
-Display | Oled | ![oled](https://user-images.githubusercontent.com/61006702/77226007-e6c0e100-6b74-11ea-9dff-47438e23a81a.jpg)
+Display -- Oled ![oled](https://user-images.githubusercontent.com/61006702/77226007-e6c0e100-6b74-11ea-9dff-47438e23a81a.jpg)
 
-Because the OLED display uses I2C communication protocol, wiring is very simple. You can use the following table as a reference.
+the Oled uses I2C to communicate. The Oled is used for displaying data from the sensors.
 
 Pin | ESP32 
 ------|------
@@ -36,6 +36,20 @@ SCL	| GPIO 22
 SDA	| GPIO 21
 
 ---
+
+Sensor -- BMP280 ![bmp280](https://user-images.githubusercontent.com/61006702/77226020-225bab00-6b75-11ea-9e40-b6a22e855fad.jpg)
+
+This is an sensor which also works with I2C. This sensor measures the presure and the temperature.
+
+Pin | ESP32 
+------|------
+Vcc	| 3.3V
+GND	| GND
+SCL	| GPIO 22
+SDA	| GPIO 21
+
+---
+
 
 
 
