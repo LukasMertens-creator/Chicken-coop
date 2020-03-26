@@ -51,5 +51,17 @@ SDA	| GPIO 21
 ---
 
 
+Sensor -- Photoresistor ![Photoresistor](https://robu.in/wp-content/uploads/2019/10/20mm-GL20528-Light-Sensitive-Photoresistor-LDR.jpg)
+
+This is an sensor which also works with I2C. This sensor measures the presure and the temperature.
+
+Pin | ESP32 
+------|------
+Vcc	| 3.3V
+GND	| GND
+SCL	| GPIO 22
+SDA	| GPIO 21
+
+---
 
 
