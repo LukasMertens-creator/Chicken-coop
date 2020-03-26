@@ -82,5 +82,23 @@ Gnd	| GND
 
 ---
 ## Schematic
-![Schematic](https://prnt.sc/rn0r9r)
 https://prnt.sc/rn0r9r
+
+------
+
+## Breadboard Photo
+https://prnt.sc/rn0vf0
+
+------
+## App Screenshots
+### Dashboard
+https://prnt.sc/rn0y9k
+
+### Actoren
+https://prnt.sc/rn0ys9
+
+### Sensors
+https://prnt.sc/rn0z6u
+
+## Code
+
