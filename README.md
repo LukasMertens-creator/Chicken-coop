@@ -51,7 +51,7 @@ SDA	| GPIO 21
 ---
 
 
-Sensor -- Photoresistor ![Photoresistor](https://robu.in/wp-content/uploads/2019/10/20mm-GL20528-Light-Sensitive-Photoresistor-LDR.jpg)
+Sensor -- Photoresistor ![Photoresistor](https://5.imimg.com/data5/LR/UR/ZM/SELLER-40584703/ldr-photoresistor-photo-light-sensitive-resistor-light-dependent-resistor-250x250.jpg)
 
 This is an sensor which also works with I2C. This sensor measures the presure and the temperature.
 
